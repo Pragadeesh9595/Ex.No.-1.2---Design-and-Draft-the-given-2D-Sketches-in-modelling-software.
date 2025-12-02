@@ -36,7 +36,8 @@ date: 10/11/25
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- <img width="1147" height="808" alt="Screenshot 2025-12-01 161915" src="https://github.com/user-attachments/assets/ff40aced-3771-4866-937e-59818b175730" />
+
+<img width="960" height="666" alt="Screenshot 2025-12-02 125718" src="https://github.com/user-attachments/assets/22e47446-c874-4e2f-a09e-ce926440b723" />
 
  
  ## RESULT
